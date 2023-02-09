@@ -1,4 +1,3 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
-Console.WriteLine("Welcome to github world");
-Console.WriteLine("keep learning");
+Console.WriteLine("Welcome to github");
